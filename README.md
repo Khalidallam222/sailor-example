@@ -98,3 +98,4 @@
     insert into Reserves(sid,bid,day)
     values(74,103,'8-SEP-98');
     </pre>
+4. USE tutorial 5 and Section 5 for practice
